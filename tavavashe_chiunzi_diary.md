@@ -11,16 +11,32 @@ This file shows sample entries for your **Developer's Diary**. You must document
 
 ## Foundation Skills Examples
 
-### Entry 1 – Effective AI Prompting for Business Data
+### Entry 1 (25/04/2026)– Starting Out
 **Artifact:** Screenshot of ChatGPT conversation about analyzing spending data.
 
-**My Initial Prompt:** "Help me analyze CSV data with pandas"
+<img width="1831" height="639" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/4eec5a3c-5b82-4c95-a791-6e995d4c59d3" />
+<img width="1831" height="667" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/e25061ce-d1b4-411a-b1dd-e501425fbe74" />
+<img width="1828" height="709" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/d23886a4-75f1-48c7-a780-48a0bbc03b82" />
+<img width="1831" height="904" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/b030767d-d057-4b21-b650-c17ce3ac4689" />
+<img width="1830" height="913" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/92cac211-5dca-4231-b526-2c2ed87914fb" />
+<img width="1829" height="906" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/bced0041-b46b-4cc3-ba1b-155f7e8644b2" />
+<img width="1828" height="903" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/a0c1dcb5-0449-45dc-affd-153d654fcdf9" />
 
-**My Improved Prompt:** "I'm building a Smart Finance Assistant. I have a CSV with Date, Amount, Category, Description columns. The Amount has dollar signs that need cleaning. I want to calculate total spending by category and format results for a business presentation. Please write pandas code with clear comments."
 
-**Context:** Learning to write specific, business-focused AI prompts.
+**My Initial Prompt:** "Hello, Gemini. May you please help me with this AI-assisted task? My course requires me to design and generate a smart finance assistant using Python. These are the project specifications: 
+Your Assistant should help users complete personal finance tasks such as: 
+•	Summarising transactions from a CSV file.
+•	Tracking a stock/crypto portfolio via API data.
+•	Analysing budgets and spending patterns.
+•	Offering advice through a chatbot personality.
+•	Running a simple custom tool (e.g., currency converter, savings goal calculator). 
+May you please give a basic skeleton template that breaks down the overall task into simpler tasks? Remember that it should not be overly complex.
+"
 
-**Reflection:** The first prompt gave me generic pandas code. The improved prompt with business context got me professional, commented code that handled data cleaning. I learned that AI needs clear business context and output requirements to give useful results. Now I always include: data structure, business purpose, and desired output format.
+**My Improved Prompt:** Currently there is no second prompt, as this was only a test script.
+
+**Context:** Using Gemini to generate a basic skeleton as a foundation for a smart financial tracker that integrates my knowledge from the past 9 weeks of Introduction to Business Programming. 
+**Reflection:** My first prompt makes it clear that I want a base foundation with which to base my tracker around. So far the template is satisfactory, however, I feel that it can be improved upon.  
 
 ---
 
