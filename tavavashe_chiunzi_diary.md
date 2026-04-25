@@ -12,7 +12,7 @@ This file shows sample entries for your **Developer's Diary**. You must document
 ## Foundation Skills Examples
 
 ### Entry 1 (25/04/2026)– Starting Out
-**Artifact:** Screenshot of ChatGPT conversation about analyzing spending data.
+**Artifact:**
 
 <img width="1831" height="639" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/4eec5a3c-5b82-4c95-a791-6e995d4c59d3" />
 <img width="1831" height="667" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/e25061ce-d1b4-411a-b1dd-e501425fbe74" />
